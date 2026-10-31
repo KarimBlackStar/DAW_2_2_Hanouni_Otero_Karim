@@ -105,3 +105,6 @@ Sin embargo, el comando ls (o Get-ChildItem en PowerShell) de Windows no muestra
 ya que Docker Desktop gestiona y traduce los permisos entre el sistema de archivos de Linux 
 y el de Windows para permitir la edición. Si esto se ejecutara nativamente en Linux, 
 el archivo pertenecería a root y requeriría privilegios para ser modificado por el usuario del anfitrión.
+
+---
+
